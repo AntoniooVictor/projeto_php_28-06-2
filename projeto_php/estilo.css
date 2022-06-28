@@ -1,0 +1,16 @@
+.pagina {
+  border:solid 1px #DFDFDF;
+  padding:25px !important;
+}
+table {
+  width: 100%;  
+}
+h4 {
+  color: #009933 !important;
+}
+label{
+   font-weight: bolder;
+}
+li{
+ background: #ffa;
+}

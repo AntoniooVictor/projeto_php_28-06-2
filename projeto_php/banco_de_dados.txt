@@ -1,0 +1,14 @@
+Criando tabela preço
+
+CREATE TABLE preco (
+id INT(11)  AUTO_INCREMENT PRIMARY KEY,
+preco float NOT NULL
+);
+
+Criando a tabela produtos
+
+CREATE TABLE produtos (
+id INT(11)  AUTO_INCREMENT PRIMARY KEY,
+nome varchar(150) NOT NULL,
+cor varchar(50) NOT NULL
+);
